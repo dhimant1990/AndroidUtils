@@ -15,5 +15,5 @@ allprojects {
 }
 
 dependencies {
-	compile 'com.github.dhimant1990:AndroidUtils:v1.0'
+	implementation 'com.github.dhimant1990:AndroidUtils:V1.1'
 }
