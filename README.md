@@ -2,7 +2,25 @@
 
 Utility libraries and classes that can make me(and others) more productive.
 
-Download
+# Available Classes
+
+- SharedPrefsUtils
+- ExifUtil
+- FileUtils
+- ImageUtils
+- IoUtils
+- LogUtils
+- NotificationIdFactory
+- PathUtil
+- PermissionUtils
+- DateTimeFormat
+- DateTimeStyle
+- DateTimeUnits
+- DateTimeUtils
+- GlobalConstants
+- Utils
+
+# Download
 
 Gradle:
 ```groovy
